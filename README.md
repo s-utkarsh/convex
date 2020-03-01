@@ -100,3 +100,9 @@ Please cite as:
 The following paper(s) have utilized this code (not necessarily in the current form):
 
 1. Singh, *et al.* "[First-principles investigations of orthorhombic-cubic phase transition and its effect on thermoelectric properties in cobalt-based ternary alloys](https://iopscience.iop.org/article/10.1088/1361-648X/ab4e71/meta)", *Journal of Physics: Condensed Matter*, Volume 32, Number 5, Nov. 2019
+
+Acknowledgement:
+----------------
+I'm hugely thankful to [Dr. Hem C. Kandpal](https://www.iitr.ac.in/departments/CY/pages/People+Faculty+hem12fcy.html) and [Dr. Prof. Stefano Sanvito](http://www.spincomp.com/group/stefano-sanvito/) for their contribution to the development of this. 
+
+Although this is a very small project, it is the first one I've published a code I've written and for that I'm very thankful.
