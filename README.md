@@ -20,16 +20,22 @@ C. How to use:
 Method One: With Pre-made input file (Recommended!)
 Input file format: (assume the file is ABC, see ./examples/*.in for illustration)
 
-#####################################################################################################################################
+##################################################
+
 5 #first line of input file, denoting number of input points/compositions
+
 1 0 0 0.0    #parts of A = 1, B = 0, C = 0, E_f = 0 (enthalpy units), A
+
 0 1 0 0.0    #parts of A = 0, B = 1, C = 0, E_f = 0 (enthalpy units), B
+
 0 0 1 0.0    #parts of A = 0, B = 0, C = 1, E_f = 0 (enthalpy units), C
+
 1 1 2 -0.75  #parts of A = 1, B = 1, C = 2, E_formation = -0.75 (enthalpy units), ABC2
+
 2 1 1 -0.10  #parts of A = 2, B = 1, C = 1, E_formation = -0.10 (enthalpy units), A2BC, end of decompositions, last line of input file
 
 
-#######################################################   file-end   #################################################################
+#####################   file-end   ###############
 
 
 Alternative: If you don't wish to provide an input file, the programme would interactively ask for each composition in succession.
