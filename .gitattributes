@@ -1,0 +1,9 @@
+*.py linguist-detectable=true
+*.html linguist-detectable=false
+*.htm inguist-detectable=false
+*.xml linguist-detectable=false
+*.toc linguist-detectable=false
+*.txt linguist-detectable=false
+convex/* linguist-vendored
+build/convex-0.1/* linguist-vendored
+dist/* linguist-documentation
