@@ -55,9 +55,11 @@ Steps to follow:
 
 2. Add $dir/Convex to your path in .bashrc or .zshrc file, also chmod convex-1.0.0 in the directory $dir/Convex/dist
 
-3. Syntax: use one of the two below
-                1. convex-1.0.0 ./inputfile.in      (if you've made an input file)
-                2. convex-1.0.0                     (if you'd like to interactively create an input file)
+3. Syntax: use one of the two below:
+  
+                   1. convex-1.0.0 ./inputfile.in      (if you've made an input file)
+        
+                   2. convex-1.0.0                     (if you'd like to interactively create an input file)
 
 (The above is assuming convex.py is in your path, if not it needs to be called as /path/to/convex/convex.py)
 
