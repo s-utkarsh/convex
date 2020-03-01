@@ -94,7 +94,9 @@ Citation:
 ---------
 As I'm a young researcher just starting out, a citation, although not required will be hugely appreciated.
 
-Please cite as: Utkarsh Singh "*convex*: A user friendly package to create phase diagrams via convex hull approach" DOI: [10.5281/zenodo.3693036](https://doi.org/10.5281/zenodo.3693036)
+Please cite as: 
+
+Utkarsh Singh "*convex*: A user friendly package to create phase diagrams via convex hull approach" DOI: [10.5281/zenodo.3693036](https://doi.org/10.5281/zenodo.3693036)
 
 
 *convex* in academic papers:
