@@ -1,5 +1,5 @@
-# convex-0.1
-Welcome to Convex!
+# convex
+Welcome to Convex! (v0.1)
 
 Quick note: Do not delete the temp directory
 
