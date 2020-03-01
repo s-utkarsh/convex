@@ -1,7 +1,7 @@
-convex (v1.0.0)
+*convex (v1.0.0)
 =========
 
-Welcome to ***convex***! (v1.0.0)
+Welcome to ***convex***! *(v1.0.0)
  
 Quick note: Do not delete the temp directory
 
