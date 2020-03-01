@@ -1,4 +1,4 @@
-*convex (v1.0.1)*
+*convex (v1.0.1)*  [![DOI](https://zenodo.org/badge/244065279.svg)](https://zenodo.org/badge/latestdoi/244065279)
 =========
 
 Welcome to ***convex***! *(v1.0.1)*
@@ -94,7 +94,7 @@ Citation:
 ---------
 As I'm a young researcher just starting out, a citation, although not required will be hugely appreciated.
 
-Please cite as:
+Please cite as: Utkarsh Singh "*convex*: A user friendly package to create phase diagrams via convex hull approach" DOI: [10.5281/zenodo.3693036](https://doi.org/10.5281/zenodo.3693036)
 
 
 *convex* in academic papers:
