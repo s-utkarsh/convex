@@ -96,7 +96,7 @@ Please cite as:
 
 
 *convex* in academic papers:
---------------------------
+----------------------------
 The following paper(s) have utilized this code (not necessarily in the current form):
 
 1. Singh, *et al.* "[First-principles investigations of orthorhombic-cubic phase transition and its effect on thermoelectric properties in cobalt-based ternary alloys](https://iopscience.iop.org/article/10.1088/1361-648X/ab4e71/meta)", *Journal of Physics: Condensed Matter*, Volume 32, Number 5, Nov. 2019
