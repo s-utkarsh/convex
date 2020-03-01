@@ -1,14 +1,17 @@
-# convex
+# convex-0.1
 Welcome to Convex!
 
 Quick note: Do not delete the temp directory
 
 A. Usability:
+
 (On python 2 only, default python in Debian based distros)
+
 Given a point cloud in 3-d space, it will calculate the set of points to create the minimum volume while keeping the surface convex.
 In the context of phase diagrams, it will generate, (given a list of points), all possible phases lying on the convex hull.
 
 B. Requirements: (if you do not want to use is bundled package, "convex-0.1" present in $dir/Convex/dist/)
+
 1. python 2 (default python in Debian based distros)
 2. python 'numpy' library (pip install numpy)
 3. python 'matplotlib' library (pip install matplotlib)
