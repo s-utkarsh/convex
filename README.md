@@ -1,7 +1,7 @@
 convex (v0.1)
 =========
 
-Welcome to **convex**! (v0.1)
+Welcome to ***convex***! (v0.1)
  
 Quick note: Do not delete the temp directory
 
@@ -95,7 +95,7 @@ As I'm a young researcher just starting out, a citation, although not required w
 Please cite as:
 
 
-convex in academic papers:
+*convex* in academic papers:
 --------------------------
 The following paper(s) have utilized this code (not necessarily in the current form):
 
