@@ -61,7 +61,7 @@ Steps to follow:
         
                    2. convex-1.0.0                     (if you'd like to interactively create an input file)
 
-(The above is assuming convex.py is in your path, if not it needs to be called as /path/to/convex/convex.py)
+(The above is assuming convex-1.0.0 is in your path, if not it needs to be called as /path/to/convex/convex-1.0.0)
 
 4. The output will be generated as a .out file containing the list of points lying on the hull.
 
