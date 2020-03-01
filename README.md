@@ -1,7 +1,7 @@
-*convex (v1.0.0)*
+*convex (v1.0.1)*
 =========
 
-Welcome to ***convex***! *(v1.0.0)*
+Welcome to ***convex***! *(v1.0.1)*
  
 Quick note: Do not delete the temp directory
 
@@ -14,7 +14,7 @@ In the context of phase diagrams, it will generate, (given a list of points), al
 
 B. Requirements: 
 ----------------
-(Applicable if you do not want to use is bundled binary, "convex-1.0.0" present in $dir/Convex/dist/)
+(Applicable if you do not want to use is bundled binary, "convex-1.0.1" present in $dir/Convex/dist/)
 
 1. python 2 (default python in Debian based distros)
 2. python 'numpy' library (pip install numpy)
@@ -53,15 +53,15 @@ Steps to follow:
 
 1. Download the code and put it in any directotry, say $dir.
 
-2. Add $dir/Convex to your path in .bashrc or .zshrc file, also chmod convex-1.0.0 in the directory $dir/Convex/dist
+2. Add $dir/Convex to your path in .bashrc or .zshrc file, also chmod convex-1.0.1 in the directory $dir/Convex/dist
 
 3. Syntax: use one of the two below:
   
-                   1. convex-1.0.0 ./inputfile.in      (if you've made an input file)
+                   1. convex-1.0.1 ./inputfile.in      (if you've made an input file)
         
-                   2. convex-1.0.0                     (if you'd like to interactively create an input file)
+                   2. convex-1.0.1                     (if you'd like to interactively create an input file)
 
-(The above is assuming convex-1.0.0 is in your path, if not it needs to be called as /path/to/convex/convex-1.0.0)
+(The above is assuming convex-1.0.1 is in your path, if not it needs to be called as /path/to/convex/convex-1.0.1)
 
 4. The output will be generated as a .out file containing the list of points lying on the hull.
 
