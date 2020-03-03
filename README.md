@@ -109,4 +109,4 @@ Acknowledgement:
 ----------------
 I'm hugely thankful to [Dr. Hem C. Kandpal](https://www.iitr.ac.in/departments/CY/pages/People+Faculty+hem12fcy.html) and [Dr. Prof. Stefano Sanvito](http://www.spincomp.com/group/stefano-sanvito/) for their contribution to the development of this. 
 
-Although this is a very small project, it is the first one I've published a code I've written and for that I'm very thankful.
+Although this is a very small project, it is the first time I've published a code I've written and for that I'm very thankful.
