@@ -99,7 +99,7 @@ Please cite as:
 Utkarsh Singh; "*convex*: A user friendly package to create phase diagrams via convex hull approach" [10.5281/zenodo.3693036](https://doi.org/10.5281/zenodo.3693036)
 
 
-*convex* in academic papers:
+*convex* in Academic papers:
 ----------------------------
 The following paper(s) have utilized this code (not necessarily in the current form):
 
