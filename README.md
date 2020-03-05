@@ -31,15 +31,15 @@ Input file format: (assume the file is ABC, see ./examples/*.in for illustration
 
 5 #first line of input file, denoting number of input points/compositions
 
-1 0 0 0.0    #parts of A = 1, B = 0, C = 0, E_f = 0 (enthalpy units), A
+1 0 0 0.0    #second line, parts of A = 1, B = 0, C = 0, E_f = 0 (enthalpy units), A
 
-0 1 0 0.0    #parts of A = 0, B = 1, C = 0, E_f = 0 (enthalpy units), B
+0 1 0 0.0    #third line, parts of A = 0, B = 1, C = 0, E_f = 0 (enthalpy units), B
 
-0 0 1 0.0    #parts of A = 0, B = 0, C = 1, E_f = 0 (enthalpy units), C
+0 0 1 0.0    #fourth line, parts of A = 0, B = 0, C = 1, E_f = 0 (enthalpy units), C
 
-1 1 2 -0.75  #parts of A = 1, B = 1, C = 2, E_formation = -0.75 (enthalpy units), ABC2
+1 1 2 -0.75  #fifth line, parts of A = 1, B = 1, C = 2, E_formation = -0.75 (enthalpy units), ABC2
 
-2 1 1 -0.10  #parts of A = 2, B = 1, C = 1, E_formation = -0.10 (enthalpy units), A2BC, end of decompositions, last line of input file
+2 1 1 -0.10  #sixth line, parts of A = 2, B = 1, C = 1, E_formation = -0.10 (enthalpy units), A2BC, end of decompositions, last line of input file
 
 *--- file end ---*
 
@@ -86,7 +86,7 @@ D. Troubleshooting:
 -------------------
 1. check if the number of points = the number mentioned in first line (sometimes you might forget to change it after adding/removing points)
 
-2. check that each line only contains information on on point/composition.
+2. check that each line only contains information on one point/composition.
 
 Otherwise: Contact me at usingh1@ch.iitr.ac.in
 
@@ -108,6 +108,6 @@ The following paper(s) have utilized this code (not necessarily in the current f
 
 Acknowledgement:
 ----------------
-I'm hugely thankful to [Dr. Hem C. Kandpal](https://www.iitr.ac.in/departments/CY/pages/People+Faculty+hem12fcy.html) and [Dr. Prof. Stefano Sanvito](http://www.spincomp.com/group/stefano-sanvito/) for their contribution to the development of this. 
+I'm hugely thankful to [Dr. Hem C. Kandpal](https://www.iitr.ac.in/departments/CY/pages/People+Faculty+hem12fcy.html) and [Dr. Prof. Stefano Sanvito](http://www.spincomp.com/group/stefano-sanvito/) for providing me the opportunity to do this.
 
 Although this is a very small project, it is the first time I've published a code I've written and for that I'm very thankful.
