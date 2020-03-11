@@ -11,6 +11,7 @@ def main():
     print("\nThanks for using this programme.\n")
 
 if __name__== "__main__":
+    print("  ___ ___  _ ____   _______  __\n / __/ _ \| '_ \ \ / / _ \ \/ /\n| (_| (_) | | | \ V /  __/>  <\n \___\___/|_| |_|\_/ \___/_/\_\\  (v1.0.1)\n")
     cwd = os.getcwd()
     wd = os.path.dirname(sys.argv[0]) 
     e1,e2,e3 = take_basic_input()
